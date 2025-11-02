@@ -5,7 +5,7 @@ int main() {
     long long totalDetik;
     long long hari, jam, menit, detik;
 
-    cout << "Masukkan bilangan >=0 (satuan detik): ";
+    cout << "Masukkan bilangan >=0 : ";
     cin >> totalDetik;
 
     hari = totalDetik / 86400;
