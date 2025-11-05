@@ -5,6 +5,9 @@ int main() {
     int totalDetik;
     int jam, menit, detik;
 
+    cout << "=========================================" << endl;
+    cout << " KONVERSI DETIK KE JAM, MENIT, DETIK " << endl;
+    cout << "=========================================" << endl;
     cout << "Masukkan bilangan >1 " << endl;
     cin >> totalDetik;
 
@@ -15,5 +18,7 @@ int main() {
     cout << "Hasil Konversi: " << endl;
     cout << totalDetik << " detik = " << jam << " Jam," << menit << " Menit, " << detik << " Detik. " << endl;
 
+    cout << "Terima kasih telah menggunakan konverter waktu!" << endl;
+    
     return 0; 
 }
