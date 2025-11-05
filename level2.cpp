@@ -22,6 +22,7 @@ int main() {
     cout << "Hasil Konversi:" << endl;
     cout << totalDetik << " detik = " << hari << " Hari, " << jam << " Jam, " << menit << " Menit, " << detik << " Detik." << endl;
 
+    cout << "================================================" << endl;
     cout << "Terima kasih telah menggunakan konverter waktu!" << endl;
     
     return 0;
