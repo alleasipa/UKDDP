@@ -5,9 +5,9 @@ int main() {
     long long totalDetik;
     long long hari, jam, menit, detik;
 
-    out << "=========================================" << endl;
-    cout << " KONVERSI DETIK KE JAM, MENIT, DETIK " << endl;
-    cout << "=========================================" << endl;
+    cout << "===========================================" << endl;
+    cout << " KONVERSI DETIK KE HARI, JAM, MENIT, DETIK " << endl;
+    cout << "===========================================" << endl;
     cout << "Masukkan bilangan >=0 : ";
     cin >> totalDetik;
 
